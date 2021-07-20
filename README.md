@@ -53,9 +53,13 @@ goals_scored = EPL_merged[['Team_x','Goals']].sort_values('Goals', ascending=Fal
 goals_scored
 ```
 Using seaborn we would be able to put the data in a clearer view as a table
-![image](https://user-images.githubusercontent.com/84439768/126382691-1b1c3611-e204-4a34-89eb-d702359b6dc8.png)
+![image](https://user-images.githubusercontent.com/84439768/126382691-1b1c3611-e204-4a34-89eb-d702359b6dc8.png)  
 
+We can then use the Win Percentage to determine the relationship between win percentage and possession percentage
 ![image](https://user-images.githubusercontent.com/84439768/126382924-7525a0d4-2df4-48a1-bba8-8d81b9b2ce15.png)
+
+We can also find out the comparison between each of the Top 5 leagues such as difference in goals etc.  
+![image](https://user-images.githubusercontent.com/84439768/126383306-c86d90dc-eba1-4c5d-bf8f-b6afb23cc629.png)
 
 
 
