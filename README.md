@@ -1,1 +1,1 @@
-# EPL-teams-EDA
+# EPL Teams EDA
